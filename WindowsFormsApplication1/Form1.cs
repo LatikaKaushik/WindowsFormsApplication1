@@ -19,7 +19,7 @@ namespace WindowsFormsApplication1
 
         private void button1_Click(object sender, EventArgs e)
         {
-            button1.ForeColor = Color.Green;
+            button1.ForeColor = Color.Yellow;
             button1.BackColor = Color.IndianRed;
         }
     }
